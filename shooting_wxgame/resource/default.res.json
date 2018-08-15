@@ -1,0 +1,395 @@
+{
+	"groups": [
+		{
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,description_json,bj_1_png,bj_2_png,basket_back_png,basket_front_png,flowerball_png,star_png,zaiwanyiju_png,wenzi_3_png,wenzi_2_png,wenzi_1_png,tip_bj_png,silver_png,shiyongfuhuoka_png,shijiepaixing_2_png,shijiepaixing_1_png,shengyin_1_png,shengyin_png,return_png,rectangular_png,qunpaixing_png,pifu_png,paixing_png,page_2_png,page_1_png,logo_png,line_png,lijizensong_png,lijitiyan_png,lijitiaoguo_png,kanshipingfuhuo_png,jifen_png,haoyoupaixing_2_png,haoyoupaixing_1_png,haode_png,guanbi_png,gold_png,fuhuoka_png,faqitiaozhan_png,fanhuishouye_png,copper_png,chakan_png,bj_4_png,bj_3_png,anniu_png,card_png,Start_png,lijiyaoqing_png,wenzi_4_png,main_png,shareImage_png,goal_mp3,hollow_mp3,collision_mp3",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/ItemRenderer/selected.png",
+			"type": "image",
+			"name": "selected_png"
+		},
+		{
+			"url": "assets/Panel/border.png",
+			"type": "image",
+			"name": "border_png"
+		},
+		{
+			"url": "assets/Panel/header.png",
+			"type": "image",
+			"name": "header_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_disabled.png",
+			"type": "image",
+			"name": "radiobutton_select_disabled_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_down.png",
+			"type": "image",
+			"name": "radiobutton_select_down_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_up.png",
+			"type": "image",
+			"name": "radiobutton_select_up_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_unselect.png",
+			"type": "image",
+			"name": "radiobutton_unselect_png"
+		},
+		{
+			"url": "assets/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "assets/Slider/thumb.png",
+			"type": "image",
+			"name": "thumb_png"
+		},
+		{
+			"url": "assets/Slider/track.png",
+			"type": "image",
+			"name": "track_png"
+		},
+		{
+			"url": "assets/Slider/tracklight.png",
+			"type": "image",
+			"name": "tracklight_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/handle.png",
+			"type": "image",
+			"name": "handle_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/off.png",
+			"type": "image",
+			"name": "off_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/on.png",
+			"type": "image",
+			"name": "on_png"
+		},
+		{
+			"url": "assets/Button/button_down.png",
+			"type": "image",
+			"name": "button_down_png"
+		},
+		{
+			"url": "assets/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "assets/ProgressBar/thumb_pb.png",
+			"type": "image",
+			"name": "thumb_pb_png"
+		},
+		{
+			"url": "assets/ProgressBar/track_pb.png",
+			"type": "image",
+			"name": "track_pb_png"
+		},
+		{
+			"url": "assets/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/background/bj_1.png",
+			"type": "image",
+			"name": "bj_1_png"
+		},
+		{
+			"url": "assets/background/bj_2.png",
+			"type": "image",
+			"name": "bj_2_png"
+		},
+		{
+			"url": "assets/basketball/basket_after.png",
+			"type": "image",
+			"name": "basket_back_png"
+		},
+		{
+			"url": "assets/basketball/basket_before.png",
+			"type": "image",
+			"name": "basket_front_png"
+		},
+		{
+			"url": "assets/basketball/flowerball.png",
+			"type": "image",
+			"name": "flowerball_png"
+		},
+		{
+			"url": "assets/basketball/star.png",
+			"type": "image",
+			"name": "star_png"
+		},
+		{
+			"url": "assets/UI/anniu.png",
+			"type": "image",
+			"name": "anniu_png"
+		},
+		{
+			"url": "assets/UI/bj_3.png",
+			"type": "image",
+			"name": "bj_3_png"
+		},
+		{
+			"url": "assets/UI/bj_4.png",
+			"type": "image",
+			"name": "bj_4_png"
+		},
+		{
+			"url": "assets/UI/chakan.png",
+			"type": "image",
+			"name": "chakan_png"
+		},
+		{
+			"url": "assets/UI/copper.png",
+			"type": "image",
+			"name": "copper_png"
+		},
+		{
+			"url": "assets/UI/fanhuishouye.png",
+			"type": "image",
+			"name": "fanhuishouye_png"
+		},
+		{
+			"url": "assets/UI/faqitiaozhan.png",
+			"type": "image",
+			"name": "faqitiaozhan_png"
+		},
+		{
+			"url": "assets/UI/fuhuoka.png",
+			"type": "image",
+			"name": "fuhuoka_png"
+		},
+		{
+			"url": "assets/UI/gold.png",
+			"type": "image",
+			"name": "gold_png"
+		},
+		{
+			"url": "assets/UI/guanbi.png",
+			"type": "image",
+			"name": "guanbi_png"
+		},
+		{
+			"url": "assets/UI/haode.png",
+			"type": "image",
+			"name": "haode_png"
+		},
+		{
+			"url": "assets/UI/haoyoupaixing_1.png",
+			"type": "image",
+			"name": "haoyoupaixing_1_png"
+		},
+		{
+			"url": "assets/UI/haoyoupaixing_2.png",
+			"type": "image",
+			"name": "haoyoupaixing_2_png"
+		},
+		{
+			"url": "assets/UI/jifen.png",
+			"type": "image",
+			"name": "jifen_png"
+		},
+		{
+			"url": "assets/UI/kanshipingfuhuo.png",
+			"type": "image",
+			"name": "kanshipingfuhuo_png"
+		},
+		{
+			"url": "assets/UI/lijitiaoguo.png",
+			"type": "image",
+			"name": "lijitiaoguo_png"
+		},
+		{
+			"url": "assets/UI/lijitiyan.png",
+			"type": "image",
+			"name": "lijitiyan_png"
+		},
+		{
+			"url": "assets/UI/lijizensong.png",
+			"type": "image",
+			"name": "lijizensong_png"
+		},
+		{
+			"url": "assets/UI/line.png",
+			"type": "image",
+			"name": "line_png"
+		},
+		{
+			"url": "assets/UI/logo.png",
+			"type": "image",
+			"name": "logo_png"
+		},
+		{
+			"url": "assets/UI/page_1.png",
+			"type": "image",
+			"name": "page_1_png"
+		},
+		{
+			"url": "assets/UI/page_2.png",
+			"type": "image",
+			"name": "page_2_png"
+		},
+		{
+			"url": "assets/UI/paixing.png",
+			"type": "image",
+			"name": "paixing_png"
+		},
+		{
+			"url": "assets/UI/pifu.png",
+			"type": "image",
+			"name": "pifu_png"
+		},
+		{
+			"url": "assets/UI/qunpaixing.png",
+			"type": "image",
+			"name": "qunpaixing_png"
+		},
+		{
+			"url": "assets/UI/rectangular.png",
+			"type": "image",
+			"name": "rectangular_png"
+		},
+		{
+			"url": "assets/UI/return.png",
+			"type": "image",
+			"name": "return_png"
+		},
+		{
+			"url": "assets/UI/shengyin.png",
+			"type": "image",
+			"name": "shengyin_png"
+		},
+		{
+			"url": "assets/UI/shengyin_1.png",
+			"type": "image",
+			"name": "shengyin_1_png"
+		},
+		{
+			"url": "assets/UI/shijiepaixing_1.png",
+			"type": "image",
+			"name": "shijiepaixing_1_png"
+		},
+		{
+			"url": "assets/UI/shijiepaixing_2.png",
+			"type": "image",
+			"name": "shijiepaixing_2_png"
+		},
+		{
+			"url": "assets/UI/shiyongfuhuoka.png",
+			"type": "image",
+			"name": "shiyongfuhuoka_png"
+		},
+		{
+			"url": "assets/UI/silver.png",
+			"type": "image",
+			"name": "silver_png"
+		},
+		{
+			"url": "assets/UI/tip_bj.png",
+			"type": "image",
+			"name": "tip_bj_png"
+		},
+		{
+			"url": "assets/UI/wenzi_1.png",
+			"type": "image",
+			"name": "wenzi_1_png"
+		},
+		{
+			"url": "assets/UI/wenzi_2.png",
+			"type": "image",
+			"name": "wenzi_2_png"
+		},
+		{
+			"url": "assets/UI/wenzi_3.png",
+			"type": "image",
+			"name": "wenzi_3_png"
+		},
+		{
+			"url": "assets/UI/zaiwanyiju.png",
+			"type": "image",
+			"name": "zaiwanyiju_png"
+		},
+		{
+			"url": "assets/UI/Start.png",
+			"type": "image",
+			"name": "Start_png"
+		},
+		{
+			"url": "assets/UI/card.png",
+			"type": "image",
+			"name": "card_png"
+		},
+		{
+			"url": "assets/UI/lijiyaoqing.png",
+			"type": "image",
+			"name": "lijiyaoqing_png"
+		},
+		{
+			"url": "assets/UI/wenzi_4.png",
+			"type": "image",
+			"name": "wenzi_4_png"
+		},
+		{
+			"name": "main_png",
+			"type": "image",
+			"url": "assets/basketball/main.png"
+		},
+		{
+			"name": "shareImage_png",
+			"type": "image",
+			"url": "assets/basketball/shareImage.png"
+		},
+		{
+			"name": "goal_mp3",
+			"type": "sound",
+			"url": "assets/sounds/goal.mp3"
+		},
+		{
+			"name": "hollow_mp3",
+			"type": "sound",
+			"url": "assets/sounds/hollow.mp3"
+		},
+		{
+			"name": "collision_mp3",
+			"type": "sound",
+			"url": "assets/sounds/collision.mp3"
+		}
+	]
+}
