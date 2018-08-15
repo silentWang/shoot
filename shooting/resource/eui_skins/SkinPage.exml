@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SkinPageSkin" width="400" height="300" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="164d54888c2" ></w:Config>
+	<e:Label text="皮肤" x="140" y="119"/>
+	<e:Button id="btnGoHome" label="关闭" x="294" y="5"/>
+</e:Skin>

@@ -1,0 +1,9 @@
+bin-debug/
+bin-release/
+.idea/
+temp/
+libs/
+egret.d.ts
+.wing
+.DS_Store
+manifest.json

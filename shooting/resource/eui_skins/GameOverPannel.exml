@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameOverPannelSkin" width="570" height="600" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="164ccfd5650" ></w:Config>
+	<e:Image width="570" height="520" x="0" y="0" source="bj_4_png"/>
+	<e:Label text="本次得分" y="11" horizontalCenter="0"/>
+	<e:Label id="resultScoreTxt" text="0" y="41" size="196" anchorOffsetX="0" width="526" anchorOffsetY="0" height="179" textAlign="center" horizontalCenter="0"/>
+	<e:Label text="是否复活？" y="260" textColor="0x65b5f7" horizontalCenter="0.5" bold="true"/>
+	<e:Button id="btnGameAgain" label="" width="199" height="77" x="68" y="395.5">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="shiyongfuhuoka_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="lookVideobtn" label="" x="301" y="395.5">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="kanshipingfuhuo_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="jumpOutBtn" label="" y="549" horizontalCenter="0">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="lijitiaoguo_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Image source="fuhuoka_png" x="211" y="313"/>
+	<e:Label id="reviveCntTxt" text="x22" x="288" y="329" textColor="0x65b5f7" bold="true"/>
+</e:Skin>

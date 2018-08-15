@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="TipsPageSkin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="16537761ef2" ></w:Config>
+	<e:Image source="bj_3_png" y="0" anchorOffsetX="0" anchorOffsetY="0" x="0"/>
+	<e:Label id="titleTxt" text="兑换皮肤" y="21" size="34" bold="true" horizontalCenter="0.5"/>
+	<e:Image id="tipImg" source="wenzi_4_png" y="105" horizontalCenter="0.5"/>
+	<e:Button id="goodBtn" label="" y="255" horizontalCenter="0.5">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="haode_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+</e:Skin>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="StarPanelSkin" width="317" height="72" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="164d59d8682" ></w:Config>
+	<e:Image x="0" anchorOffsetX="0" anchorOffsetY="0" verticalCenter="0" source="star_png"/>
+	<e:Label id="labelStarNum" text="1111111111" x="87" size="40" anchorOffsetX="0" verticalCenter="6" width="243"/>
+</e:Skin>

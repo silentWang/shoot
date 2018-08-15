@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ScorePanelSkin" width="326" height="209" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="164d5939f41" ></w:Config>
+	<e:Group y="11" horizontalCenter="0">
+		<e:Label id="labelDoubleTimes" text="双倍剩余次数:" y="0" size="24" textColor="0x000000" anchorOffsetX="0" width="293" horizontalCenter="0" textAlign="center"/>
+
+	</e:Group>
+	<e:Label id="labelScore" text="0" y="50" size="160" textColor="0xd6c4f9" horizontalCenter="0"/>
+</e:Skin>

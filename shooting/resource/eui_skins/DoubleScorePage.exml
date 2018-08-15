@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="DoubleScorePageSkin" width="572" height="413" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="164d4c454f6" ></w:Config>
+	<e:Image height="347" x="0" y="0" source="bj_3_png"/>
+	<e:Button id="btnGoHome" label="" y="363" anchorOffsetY="0" horizontalCenter="0">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="guanbi_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="btnWantDoubleScore" label="立即体验" y="261" horizontalCenter="0">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="lijitiyan_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Label text="双倍积分" y="21" horizontalCenter="0" size="34" fontFamily="KaiTi"/>
+	<e:Image y="100" source="wenzi_2_png" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="0"/>
+</e:Skin>
